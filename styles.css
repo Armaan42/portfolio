@@ -253,7 +253,7 @@ a{
 .project-card{
     width: 90%;
     height: 550px;
-    background-image: url(./images/photo_2024-06-27_19-16-49.jpg);
+    background-image: url(../images/photo_2024-06-27_19-16-49.jpg);
     background-size: cover;
     /* background-repeat: no-repeat; */
 
@@ -389,24 +389,24 @@ a{
 }
 
 #project1{
-    background-image: url(./images/tint_and_orange.jpg);
+    background-image: url(../images/tint_and_orange.jpg);
 }
 
 #project2{
     margin-left: 120px;
-    background-image: url(./images/Breaking_Copyrights.jpg);
+    background-image: url(../images/Breaking_Copyrights.jpg);
 
 
 }
 
 #project3{
-    background-image: url(./images/dream_home.jpg);
+    background-image: url(../images/dream_home.jpg);
 
 }
 
 #project4{
     margin-left: 120px;
-    background-image: url(./images/granit.jpg);
+    background-image: url(../images/granit.jpg);
 
 }
 
